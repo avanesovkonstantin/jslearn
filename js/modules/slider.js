@@ -104,4 +104,4 @@ const sliders = document.querySelectorAll('.offer__slide'),
 
 }
 
-module.exports = slider;
+export default slider;
